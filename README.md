@@ -4,6 +4,10 @@
 [![GitHub license](https://img.shields.io/badge/license-LGPL--3.0-orange)](https://opensource.org/licenses/lgpl-3.0.html)
 
 A simple Minecraft Mod/Datapack that adds friendly delivery owls.
+![1](https://user-images.githubusercontent.com/26262092/187563459-c1903dd8-4cf8-474a-9c2f-79c77828d574.png)
+![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
+![3](https://user-images.githubusercontent.com/26262092/187563469-bd49fcf7-aff2-4fe1-98fc-f5ff542be8ee.png)
+
 
 ## Installation
 
