@@ -1,0 +1,27 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+        "fabricloader": ">=0.12.12",
+        "fabric": "*",
+        "minecraft": "1.19.x",
+        "java": ">=16"
+      },
+    "name": "Feathery Messengers",
+    "id": "owls",
+    "version": "1.0.0",
+    "description": "A Minecraft mod/datapack that adds friendly delivery owls.",
+    "license": "Academic Free License v3.0",
+    "pack_format": 9,
+    "icon": "pack.png",
+    "authors": [
+      "§5☆Lunar Eclipse Studios☆",
+      "Bret06"
+    ],
+    "contact": {
+        "homepage": "https://lunareclipse.studio",
+        "sources": "https://github.com/LunarEclipseStudios/Feathery-Messengers",
+        "discord": "https://discord.gg/RmMtqxJJgH",
+        "issues": "https://github.com/LunarEclipseStudios/Feathery-Messengers/issues"
+    }
+}

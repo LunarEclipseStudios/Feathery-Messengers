@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides":[
+     {"predicate": {"custom_model_data":1}, "model":"lunar:entity/owl/owl"},
+     {"predicate": {"custom_model_data":2}, "model":"lunar:entity/owl/owl_flap1"},
+     {"predicate": {"custom_model_data":3}, "model":"lunar:entity/owl/owl_flap1-2"},
+     {"predicate": {"custom_model_data":4}, "model":"lunar:entity/owl/owl_flap1-3"},
+     {"predicate": {"custom_model_data":5}, "model":"lunar:entity/owl/owl_flap2"}
+  ]
+}
