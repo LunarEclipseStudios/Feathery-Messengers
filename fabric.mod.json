@@ -10,7 +10,6 @@
     "id": "owls",
     "version": "1.0.0",
     "description": "A Minecraft mod/datapack that adds friendly delivery owls.",
-    "license": "Academic Free License v3.0",
     "pack_format": 9,
     "icon": "pack.png",
     "authors": [

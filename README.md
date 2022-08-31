@@ -34,9 +34,3 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 Feel free to check out our website!
 https://lunareclipse.studio
 
----
-
-### License
-
-Feathery Messengers is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
-[license file](https://github.com/LunarEclipseStudios/Feathery-Messengers/blob/main/LICENSE.txt).
