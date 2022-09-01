@@ -2,15 +2,13 @@
     "schemaVersion": 1,
     "environment": "*",
     "depends": {
-        "fabricloader": ">=0.12.12",
-        "minecraft": "1.19.x",
-        "java": ">=16"
+        "minecraft": ">=1.19.1 <1.20"
       },
     "name": "Feathery Messengers",
     "id": "owls",
     "version": "1.0.0",
     "description": "A Minecraft mod/datapack that adds friendly delivery owls.",
-    "pack_format": 9,
+    "pack_format": 10,
     "icon": "pack.png",
     "authors": [
       "§5☆Lunar Eclipse Studios☆",
