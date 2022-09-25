@@ -12,6 +12,7 @@ scoreboard objectives add owlsound dummy
 scoreboard objectives add isWalking dummy
 scoreboard objectives add stucktimer dummy
 scoreboard objectives add justLeft minecraft.custom:minecraft.leave_game
+scoreboard objectives add owl_forceload_refresh dummy
 
 #triggers
 scoreboard objectives add owl1 trigger

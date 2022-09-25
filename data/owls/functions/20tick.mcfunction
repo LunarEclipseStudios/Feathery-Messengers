@@ -127,3 +127,8 @@ execute as @a at @s run scoreboard players add count player_count 1
 
 
 execute as @a at @s unless entity @s[tag=hasNumber] run function owls:number
+
+#forceload_refresh
+scoreboard players add timer owl_forceload_refresh 1
+execute if score timer owl_forceload_refresh matches 3600.. run forceload remove all
+execute if score timer owl_forceload_refresh matches 3600.. run scoreboard players reset timer owl_forceload_refresh
