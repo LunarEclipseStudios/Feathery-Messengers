@@ -1,6 +1,6 @@
 scoreboard players reset tick owl20tick
 
-execute unless entity @e[tag=owl,tag=active] unless entity @e[tag=owl,tag=return] run forceload remove all
+execute unless entity @e[tag=torch_trace] unless entity @e[tag=owl,tag=active] unless entity @e[tag=owl,tag=return] run forceload remove all
 
 #sound_system
 execute as @e[tag=owl,type=allay] at @s run scoreboard players add @s owlsound 1
