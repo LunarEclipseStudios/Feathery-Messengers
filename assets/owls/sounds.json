@@ -1,0 +1,7 @@
+{
+    "animal.owl.hoot": {
+        "sounds": [
+            "owls:entity/owl/hoot"
+        ]
+    }
+}

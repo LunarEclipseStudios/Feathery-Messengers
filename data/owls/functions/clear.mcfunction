@@ -1,1 +1,0 @@
-item replace entity @e[type=minecraft:allay,tag=owl] weapon.mainhand with air

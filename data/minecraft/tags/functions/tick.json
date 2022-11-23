@@ -1,5 +1,6 @@
 {
 	"values": [
-	"owls:tick"
+	"owls:main/tick",
+	"playercounter:main/tick"
 	]
 }

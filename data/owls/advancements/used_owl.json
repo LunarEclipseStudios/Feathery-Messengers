@@ -26,6 +26,6 @@
     }
   },
   "rewards": {
-    "function": "owls:used_owl"
+    "function": "owls:events/owl_interact"
   }
 }
