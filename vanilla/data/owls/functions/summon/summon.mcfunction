@@ -1,0 +1,1 @@
+summon allay ~ ~ ~ {DeathLootTable:"minecraft:entities/chicken",NoAI:0b,PersistenceRequired:1b,Silent:1b,CanPickUpLoot:0b,CanDuplicate:0b,Tags:["owl"],Passengers:[{id:"minecraft:armor_stand",DisabledSlots:4144959,Small:1b,Invisible:1b,Invulnerable:1b,Tags:["owlstand"],PersistenceRequired:1b,ArmorItems:[{},{},{},{id:"minecraft:sunflower",Count:1b,tag:{CustomModelData:1}}]}]}
