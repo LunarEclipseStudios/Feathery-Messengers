@@ -5,7 +5,7 @@ logoFile="banner.png"
 
 [[mods]]
 modId="owls"
-version="1.2.0"
+version="1.2.1"
 displayName="Feathery Messengers"
 credits="§8Created by §5☆Lunar Eclipse Studios☆"
 displayURL="https://lunareclipse.studio/feathery-messengers"
@@ -23,7 +23,7 @@ description='''A Minecraft mod/datapack that adds friendly delivery owls.'''
 [[dependencies.owls]]
     modId="owls"
     mandatory=true
-    versionRange="[1.2.0]"
+    versionRange="[1.2.1]"
     ordering="NONE"
     side="BOTH"
 
