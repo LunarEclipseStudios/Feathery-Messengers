@@ -3,7 +3,7 @@ schedule function owls:main/20tick 1s
 
 #soundSystem
 execute as @e[tag=owl,type=allay] at @s run scoreboard players add @s owlSound 1
-execute as @e[tag=owl,type=allay] at @s if score @s owlSound matches 6.. if predicate owls:50_chance run playsound owls:animal.owl.hoot neutral @a ~ ~ ~ .2
+execute as @e[tag=owl,type=allay] at @s if score @s owlSound matches 6.. if predicate owls:50_chance run playsound owls:animal.owl.hoot neutral @a ~ ~ ~ 1
 execute as @e[tag=owl,type=allay] at @s if score @s owlSound matches 7.. run scoreboard players reset @s owlSound
 
 #owlStuck

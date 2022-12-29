@@ -18,3 +18,6 @@ execute if entity @a[distance=0..100] run function owls:animation/owl
 
 #invisibleOwlFix
 execute unless entity @e[type=armor_stand,tag=owlstand,distance=..2] run function owls:events/owl_invisible
+
+#oldLootTableFix
+execute if data entity @s {DeathLootTable:"minecraft:entities/chicken"} run data merge entity @s {DeathLootTable:"owls:entities/owl"}
