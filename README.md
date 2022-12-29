@@ -2,7 +2,7 @@
 ## Mod/Datapack for Minecraft: Java Edition
 
 A simple Minecraft Mod/Datapack that adds friendly delivery owls.
-![1](https://user-images.githubusercontent.com/26262092/187563459-c1903dd8-4cf8-474a-9c2f-79c77828d574.png)
+![image](https://user-images.githubusercontent.com/26262092/209917380-1091ff11-0eed-4a03-9aa6-bd0e1afe434d.png)
 ![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917284-6d5473cc-e7c5-42b4-8269-8afb99350f76.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917307-27d284e7-80eb-478f-9aba-1c32fbe9f170.png)
