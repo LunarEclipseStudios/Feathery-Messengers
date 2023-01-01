@@ -1,7 +1,7 @@
 # Feathery Messengers
 ## Mod/Datapack for Minecraft: Java Edition
 
-A simple Minecraft Mod/Datapack that adds friendly delivery owls.
+Unleash the power of the skies with Feathery Messengers, the Minecraft mod that brings delivery owls to your world and allows you to send items soaring to your friends and allies with just a few clicks!
 ![image](https://user-images.githubusercontent.com/26262092/209917380-1091ff11-0eed-4a03-9aa6-bd0e1afe434d.png)
 ![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917284-6d5473cc-e7c5-42b4-8269-8afb99350f76.png)
