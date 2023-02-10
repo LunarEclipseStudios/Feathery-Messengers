@@ -111,5 +111,6 @@ kill @e[tag=select,type=marker,sort=nearest,distance=..5]
 #execute unless entity @e[tag=owlstand,type=minecraft:armor_stand,distance=..1.3] run kill @s
 execute unless entity @e[tag=owlstand,type=minecraft:armor_stand,distance=..1.3] run tag @s add die
 execute if entity @s[tag=die] run data merge entity @s {DeathLootTable:"bruh"}
-execute if entity @s[tag=die] run function owls:summon/summon
+execute if entity @s[tag=die,tag=!snowy] run function owls:summon/default
+execute if entity @s[tag=die,tag=snowy] run function owls:summon/snowy
 execute if entity @s[tag=die] run kill @s

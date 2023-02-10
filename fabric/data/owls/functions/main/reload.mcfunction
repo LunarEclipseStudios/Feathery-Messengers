@@ -7,6 +7,7 @@ scoreboard objectives add owlLocation trigger
 scoreboard objectives add stuckTimer dummy
 scoreboard objectives add owlSound dummy
 scoreboard objectives add owlForceloadRefresh dummy
+scoreboard objectives add owlCount dummy
 
 #gameRules
 gamerule sendCommandFeedback false
@@ -16,7 +17,6 @@ team add nocol
 team modify nocol collisionRule never
 
 #oldFeatures
-#old
 scoreboard objectives remove owl1
 scoreboard objectives remove owl2
 scoreboard objectives remove owl3

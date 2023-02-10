@@ -6,6 +6,7 @@ A simple Minecraft Mod/Datapack that adds friendly delivery owls.
 ![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917284-6d5473cc-e7c5-42b4-8269-8afb99350f76.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917307-27d284e7-80eb-478f-9aba-1c32fbe9f170.png)
+![image](https://lunareclipse.studio/assets/img/owls/images/7.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917303-8b7834ec-108c-46a6-bc12-2e1705bc0a64.png)
 
 

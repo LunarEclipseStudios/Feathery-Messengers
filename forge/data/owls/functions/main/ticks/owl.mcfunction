@@ -14,7 +14,7 @@ execute unless entity @a[distance=..6] run tag @s remove select
 execute if data entity @s {NoAI:1b} unless entity @a[distance=..6] run data merge entity @s {NoAI:0b}
 
 #animate
-execute if entity @a[distance=0..100] run function owls:animation/owl
+execute if entity @a[distance=0..200] run function owls:animation/owl
 
 #invisibleOwlFix
 execute unless entity @e[type=armor_stand,tag=owlstand,distance=..2] run function owls:events/owl_invisible

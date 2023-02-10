@@ -10,6 +10,10 @@ execute as @e[tag=owl,type=allay] at @s if score @s owlSound matches 7.. run sco
 execute as @e[tag=owl,tag=return,type=allay] at @s if entity @e[type=armor_stand,tag=select,distance=..20.5] run scoreboard players add @s stuckTimer 1
 execute as @e[tag=owl,tag=return,type=allay] at @s if score @s stuckTimer matches 15.. if entity @e[type=armor_stand,tag=select,distance=..20.5] run function owls:events/owl_unstuck
 
+#owlCount
+scoreboard players reset count owlCount
+execute as @e[type=allay,tag=owl] run scoreboard players add count owlCount 1
+
 #triggers
 scoreboard players enable @a owlLocation
 
