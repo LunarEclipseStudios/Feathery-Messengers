@@ -1,4 +1,4 @@
-modLoader="javafml"
+modLoader = "lowcodefml"
 loaderVersion="[40,)"
 license="None"
 logoFile="banner.png"
@@ -19,13 +19,5 @@ description='''Unleash the power of the skies with Feathery Messengers, the Mine
     versionRange="[1.19, 1.20]"
     ordering="NONE"
     side="BOTH"
-
-[[dependencies.owls]]
-    modId="owls"
-    mandatory=true
-    versionRange="[1.3]"
-    ordering="NONE"
-    side="BOTH"
-
 
 

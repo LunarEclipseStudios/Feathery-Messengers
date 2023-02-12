@@ -1,9 +1,0 @@
-{
-    "animal.owl.hoot": {
-        "sounds": [
-            "owls:entity/owl/idle1",
-            "owls:entity/owl/idle2",
-            "owls:entity/owl/idle3"
-        ]
-    }
-}
