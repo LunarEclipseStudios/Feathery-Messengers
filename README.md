@@ -1,7 +1,8 @@
-# Feathery Messengers
-## Mod/Datapack for Minecraft: Java Edition
+# **Feathery Messengers**
+## **Mod/Datapack for Minecraft: Java Edition**
 
 Unleash the power of the skies with Feathery Messengers, the Minecraft mod that brings delivery owls to your world and allows you to send items soaring to your friends and allies with just a few clicks!
+
 ![image](https://user-images.githubusercontent.com/26262092/209917380-1091ff11-0eed-4a03-9aa6-bd0e1afe434d.png)
 ![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917284-6d5473cc-e7c5-42b4-8269-8afb99350f76.png)
@@ -11,7 +12,7 @@ Unleash the power of the skies with Feathery Messengers, the Minecraft mod that 
 
 
 
-## Installation
+## **Installation**
 
 #### Stable releases
 
@@ -22,7 +23,7 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 ---
 
-### Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -32,7 +33,13 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
-### Website
+## **License**
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Feathery-Messengers/blob/main/LICENSE.md) file for more details.
+
+---
+
+## **Website**
 Feel free to check out our website!
 https://lunareclipse.studio
 
