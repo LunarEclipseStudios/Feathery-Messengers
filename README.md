@@ -10,8 +10,6 @@ Unleash the power of the skies with Feathery Messengers, the Minecraft mod that 
 ![image](https://lunareclipse.studio/assets/img/owls/images/7.png)
 ![image](https://user-images.githubusercontent.com/26262092/209917303-8b7834ec-108c-46a6-bc12-2e1705bc0a64.png)
 
-
-
 ## **Installation**
 
 #### Stable releases
